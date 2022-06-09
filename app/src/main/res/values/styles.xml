@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/XanhDam</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/drawer_list_selector</item>
+
+</style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:statusBarColor">@color/XanhDam</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/drawer_list_selector</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/XanhDam</item>
+    </style>
+
+    <style name="Widget.NavigationView"
+        parent="Widget.Design.NavigationView">
+        <item name="fontFamily">@font/lato</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat">
+        <item name="android:fontFamily">@font/nunito</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+    <style name="MaterialSearchViewStyle">
+        <item name="searchBackground">@color/XanhDam</item>
+        <item name="searchSuggestionBackground">@android:color/white</item>
+        <item name="fontFamily">@font/lato</item>
+        <item name="android:hint">Nhập 1 từ...</item>
+        <item name="textColorAlertDialogListItem">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894528629352",
+    "firebase_url": "https://tudien1k.firebaseio.com",
+    "project_id": "tudien1k",
+    "storage_bucket": "tudien1k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894528629352:android:625c888be19190a2d429dd",
+        "android_client_info": {
+          "package_name": "com.duanthivien1k.tudientienganh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894528629352-6jc3ufs49jjk8qbja8334i52m681sfc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9vXy83m-YfUhOPH1O-4CkWLFSDibHHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894528629352-6jc3ufs49jjk8qbja8334i52m681sfc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
